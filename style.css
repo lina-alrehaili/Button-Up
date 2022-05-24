@@ -1,0 +1,40 @@
+.container
+{
+    margin: 50px;
+}
+button
+{
+    margin-bottom: 10px;
+}
+.one{
+    width: 140px;
+    height: 30px;
+    color: #0dbab1;;
+    border-color: #0dbab1;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    border-style: solid;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.two{
+    width: 35px;
+    height: 35px;    
+    color: white;
+    background-color: #0ed2b1;
+    border-radius: 100%;
+    border-style: none;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.three{
+    width: 170px;
+    height: 35px;
+    color: whitesmoke;
+    border-color: black;
+    font-size: 1em;
+    background-color: rgb(64, 113, 219);
+    box-shadow: 2.5px 2.5px black;
+}
